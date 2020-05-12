@@ -1,4 +1,4 @@
-package labAuto.ex1;
+package Practice1.ex1;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

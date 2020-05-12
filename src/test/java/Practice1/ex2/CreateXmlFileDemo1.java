@@ -1,4 +1,4 @@
-package labAuto.ex2;
+package Practice1.ex2;
 
 import org.w3c.dom.Attr;
 import org.w3c.dom.Document;

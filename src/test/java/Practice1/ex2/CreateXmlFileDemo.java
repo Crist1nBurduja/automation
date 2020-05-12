@@ -1,4 +1,4 @@
-package labAuto.ex2;
+package Practice1.ex2;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;

@@ -1,11 +1,9 @@
-package labAuto.ex1;
+package Practice1.ex1;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
 
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 
 import java.util.Arrays;
 
