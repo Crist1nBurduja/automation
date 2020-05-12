@@ -10,13 +10,13 @@ public class JsonSimpleWriteExample {
     public static void main(String[] args) {
 
         JSONObject obj = new JSONObject();
-        obj.put("name", "So What");
-        obj.put("author", "Miles Davis");
+        obj.put("name", "ExampleName");
+        obj.put("author", "ExampleAuthor");
 
         JSONArray list = new JSONArray();
-        list.add("Kind of Blue");
-        list.add("msg 2");
-        list.add("msg 3");
+        list.add("example1");
+        list.add("example2");
+        list.add("example3");
 
         obj.put("messages", list);
 
