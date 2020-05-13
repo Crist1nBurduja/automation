@@ -19,7 +19,7 @@ public class BNMGet {
             xstream.processAnnotations(ValCurs.class);
             HttpClient httpClient = HttpClientBuilder.create().build();
             HttpGet getRequest = new HttpGet(
-                    "https://bnm.md/en/official_exchange_rates?date=20.02.1999");
+                    "https://bnm.md/en/official_exchange_rates?date=13.05.2020");
             getRequest.addHeader("accept", "application/xml");
 
             HttpResponse response = httpClient.execute(getRequest);
